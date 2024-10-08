@@ -1,3 +1,6 @@
+
+Hi Edward I am editing readme
+
 # fastai
 
 ##Introduction
